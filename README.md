@@ -12,10 +12,8 @@ Početna stranica aplikacije se sastoji iz LOGIN I REGISTER forme, preko koje mo
 -Register se satoji iz 6 input polja gde moramo uneti Name, Surname, Username, Email, Password i Confirm Password 
 -Uz Register formu imamo dugme koje nas može vratiti na Login formu.
 
-Nakon Login-a korisnika, učitava se stranica gde u Navigacionom baru imamo 3 opcije kao što su 
--POKEPEDIA
--ABOUT 
--LOGOUT
+Nakon Login-a korisnika, učitava se stranica gde u Navigacionom baru 
+imamo 3 opcije kao što su -POKEPEDIA-ABOUT -LOGOUT
 
 Pokepedia je stranica gde imamo prikazanu potpunu istoriju generaciju pokemona.
 About je stranica gde imamo kratki opis šta su pokemonu i o čemu se radi na stranici.
