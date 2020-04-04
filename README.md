@@ -25,3 +25,6 @@ Logout komada nas vraća nazad na Login i register formu.
 
 U projektu su korišćene funkcionalne i klasne komponente. 
 
+Link koji vodi na projekat;
+https://lukazecevic22.github.io/ 
+
